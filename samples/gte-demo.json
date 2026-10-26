@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "simulation": true,
+  "observed_at": "2026-10-20T12:00:00Z",
+  "signals": {
+    "battery_soc": {"value": 64, "unit": "%"},
+    "electric_range": {"value": 31, "unit": "km"},
+    "speed": {"value": 0, "unit": "km/h"},
+    "coolant_temperature": {"value": 76, "unit": "°C"},
+    "battery_temperature": {"value": null, "unit": "°C"},
+    "charging_power": {"value": 0.0, "unit": "kW"}
+  }
+}

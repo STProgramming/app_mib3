@@ -1,0 +1,8 @@
+[
+  {"id":"battery_soc","label":"Batteria GTE","path":"/signals/battery_soc","unit":"%","min":0,"max":100,"decimals":0},
+  {"id":"electric_range","label":"Autonomia elettrica","path":"/signals/electric_range","unit":"km","min":0,"max":1500,"decimals":0},
+  {"id":"speed","label":"Velocità","path":"/signals/speed","unit":"km/h","min":0,"max":400,"decimals":0},
+  {"id":"coolant_temperature","label":"Temperatura refrigerante","path":"/signals/coolant_temperature","unit":"°C","min":-60,"max":180,"decimals":0},
+  {"id":"battery_temperature","label":"Temperatura batteria HV","path":"/signals/battery_temperature","unit":"°C","min":-60,"max":120,"decimals":0},
+  {"id":"charging_power","label":"Potenza di ricarica","path":"/signals/charging_power","unit":"kW","min":0,"max":1000,"decimals":1}
+]
